@@ -22,3 +22,21 @@ This to-do list web application is built using HTML5, Tailwind CSS and Javascrip
   script.js       # JavaScript logic for tasks & dark mode
   README.md       # Documentation file
 
+*Installation & Setup*
+
+
+For cloning this repository, no extra setup required.
+
+- git clone https://github.com/Loicet/todo-list-app.git 
+
+
+*Usage Guide*
+
+- Add a Task
+- Type into the input field.
+- Click the Add button.
+- Mark Complete/Incomplete
+- Delete a Task
+- Click the Del button to remove a task permanently.
+
+
