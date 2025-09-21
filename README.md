@@ -40,3 +40,9 @@ For cloning this repository, no extra setup required.
 - Click the Del button to remove a task permanently.
 
 
+![UI Sections Screenshot](image.png)
+
+
+AUTHOR: Loice Teta
+
+--Project End--
