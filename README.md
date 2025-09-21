@@ -12,3 +12,13 @@ This to-do list web application is built using HTML5, Tailwind CSS and Javascrip
 
 - Tailwind CSS – Minimal, modern, and responsive styling system.
 - Responsive Layout – Works seamlessly across mobile, tablet, and desktop.
+
+*Project Structure*
+
+ to-do-list-app
+
+  index.html      # Main HTML structure with inline Tailwind CSS
+  style.css       # Custom styles (minimal, since Tailwind handles most design)
+  script.js       # JavaScript logic for tasks & dark mode
+  README.md       # Documentation file
+
