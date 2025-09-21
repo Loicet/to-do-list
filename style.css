@@ -1,0 +1,7 @@
+/* Extra styles (Tailwind covers most needs) */
+
+/* Accessible focus outline */
+:focus {
+  outline: 3px solid rgb(99 102 241 / 0.35);
+  outline-offset: 2px;
+}
